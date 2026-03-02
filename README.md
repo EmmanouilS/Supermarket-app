@@ -3,7 +3,6 @@
 > A modern Android application for managing supermarket purchases. It allows users to easily browse products, create shopping lists, save items to a wish list, and track their order history. Fully bilingual (Greek/English).
 
 ## 📸 Screenshots
-*(Add 2-3 screenshots from your device or emulator here)*
 <p align="center">
   <img src="screenshot (1).png" width="300" />
   <img src="screenshot (2).png" width="300" />
