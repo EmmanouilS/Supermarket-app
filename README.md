@@ -35,4 +35,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/SupermarketApp.git](https://github.com/YourUsername/SupermarketApp.git)
+   git clone https://github.com/EmmanouilS/Supermarket-app.git
