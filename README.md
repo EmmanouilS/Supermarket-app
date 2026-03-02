@@ -1,34 +1,34 @@
 # Supermarket App 🛒
 
-> Μια σύγχρονη Android εφαρμογή για τη διαχείριση αγορών από σούπερ μάρκετ. Επιτρέπει την εύκολη περιήγηση σε προϊόντα, τη δημιουργία λιστών αγορών, την αποθήκευση σε λίστα επιθυμιών και την παρακολούθηση του ιστορικού παραγγελιών. Υποστηρίζει πλήρως διγλωσσία (Ελληνικά/Αγγλικά).
+> A modern Android application for managing supermarket purchases. It allows users to easily browse products, create shopping lists, save items to a wish list, and track their order history. Fully bilingual (Greek/English).
 
 ## 📸 Screenshots
-*(Πρόσθεσε εδώ 2-3 screenshots από το κινητό)*
+*(Add 2-3 screenshots from your device or emulator here)*
 <p align="center">
   <img src="screenshot1.png" width="200" />
   <img src="screenshot2.png" width="200" />
 </p>
 
-## ✨ Βασικές Λειτουργίες
-* **Κατάλογος Προϊόντων:** Περιήγηση σε 30 προϊόντα από 10 διαφορετικές κατηγορίες, με δυνατότητα αναζήτησης και φιλτραρίσματος.
-* **Λεπτομέρειες Προϊόντος:** Αναλυτική προβολή πληροφοριών (θρεπτικά στοιχεία, τιμή, εκπτώσεις).
-* **Λίστα Αγορών & Checkout:** Προσθήκη προϊόντων στο καλάθι, ρύθμιση ποσοτήτων και υπολογισμός συνολικού κόστους σε πραγματικό χρόνο.
-* **Λίστα Ευχών (Wish List):** Αποθήκευση προϊόντων για μελλοντικές αγορές και εύκολη μεταφορά στο καλάθι.
-* **Ιστορικό Αγορών:** Καταγραφή προηγούμενων παραγγελιών με δυνατότητα άμεσης επανάληψης.
-* **Τοπικοποίηση:** Πλήρης υποστήριξη Ελληνικών και Αγγλικών (UI και δεδομένα).
+## ✨ Key Features
+* **Product Catalog:** Browse 30 products across 10 different categories, with search and filtering capabilities.
+* **Product Details:** Comprehensive view of product information, including nutritional facts, pricing, and discounts.
+* **Shopping List & Checkout:** Add products to the cart, adjust quantities, and calculate the total cost in real-time.
+* **Wish List:** Save products for future purchases and easily transfer them to your cart.
+* **Purchase History:** Keep track of previous orders with the ability to instantly reorder.
+* **Localization:** Full support for both Greek and English languages (UI and data).
 
-## 🛠️ Τεχνολογίες & Αρχιτεκτονική
-* **Γλώσσα:** Kotlin (έκδοση 2.0.21)
-* **Αρχιτεκτονική:** MVVM (Model-View-ViewModel)
-* **UI Framework:** Jetpack Compose με σχεδιασμό Material 3
-* **Πλοήγηση:** Navigation Compose
-* **Τοπική Αποθήκευση:** Room Database
-* **Φόρτωση Εικόνων:** Coil
-* **Διαχείριση Δεδομένων:** Kotlinx Serialization
+## 🛠️ Technologies & Architecture
+* **Language:** Kotlin (version 2.0.21)
+* **Architecture:** MVVM (Model-View-ViewModel)
+* **UI Framework:** Jetpack Compose with Material 3 design
+* **Navigation:** Navigation Compose
+* **Local Storage:** Room Database
+* **Image Loading:** Coil
+* **Data Management:** Kotlinx Serialization
 
-## 🚀 Εγκατάσταση και Εκτέλεση
-**Απαιτήσεις Συστήματος:** Android 7.0+ και 50MB διαθέσιμος χώρος.
+## 🚀 Installation and Setup
+**System Requirements:** Android 7.0+ and at least 50MB of available storage space.
 
-1. Κάντε Clone το repository:
+1. Clone the repository:
    ```bash
-   git clone [https://github.com/To-Username-Sou/SupermarketApp.git](https://github.com/To-Username-Sou/SupermarketApp.git)
+   git clone [https://github.com/YourUsername/SupermarketApp.git](https://github.com/YourUsername/SupermarketApp.git)
