@@ -5,7 +5,7 @@
 ## 📸 Screenshots
 *(Add 2-3 screenshots from your device or emulator here)*
 <p align="center">
-  <img src="screenshot1.png" width="200" />
+  <img src="screenshot (1).png" width="200" />
   <img src="screenshot2.png" width="200" />
 </p>
 
